@@ -22,19 +22,19 @@
     "url": "https://message.pmsys.zone",
     "icon": "https://icons.duckduckgo.com/ip3/message.pmsys.zone.ico",
     "slug": "pmsys-zone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 491,
-    "timeWeek": 796,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "status": "up",
+    "uptime": "93.37%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "93.37%",
+    "time": 793,
+    "timeDay": 636,
+    "timeWeek": 793,
+    "timeMonth": 793,
+    "timeYear": 793,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 146
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-09-06": 376,
+      "2024-09-06": 522,
       "2024-09-05": 1440,
       "2024-09-04": 247
     }
