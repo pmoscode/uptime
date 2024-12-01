@@ -4,19 +4,19 @@
     "url": "https://pmoscode.de",
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.de.ico",
     "slug": "pmoscode",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 853,
-    "timeWeek": 936,
-    "timeMonth": 948,
-    "timeYear": 936,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 935,
+    "timeDay": 836,
+    "timeWeek": 921,
+    "timeMonth": 943,
+    "timeYear": 935,
     "dailyMinutesDown": {
-      "2024-12-01": 0
+      "2024-12-01": 16
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 712,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-12-01": 1255,
+      "2024-12-01": 1272,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
