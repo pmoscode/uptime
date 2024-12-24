@@ -4,9 +4,9 @@
     "url": "https://pmoscode.de",
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.de.ico",
     "slug": "pmoscode",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 890,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2024-12-24": 0,
       "2024-12-10": 43,
       "2024-12-01": 16
     }
@@ -63,7 +64,7 @@
     "timeMonth": 647,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-12-24": 19,
+      "2024-12-24": 1063,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
