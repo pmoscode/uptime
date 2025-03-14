@@ -4,7 +4,7 @@
     "url": "https://pmoscode.de",
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.de.ico",
     "slug": "pmoscode",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 871,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2025-03-14": 0,
       "2024-12-10": 43,
       "2024-12-01": 16
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/message.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "82.50%",
+    "uptime": "82.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "82.50%",
+    "uptimeYear": "82.12%",
     "time": 1128,
     "timeDay": 0,
     "timeWeek": 771,
     "timeMonth": 2774,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-03-14": 19,
+      "2025-03-14": 1283,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -98,7 +99,7 @@
     "timeMonth": 631,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2025-03-14": 19,
+      "2025-03-14": 1283,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
