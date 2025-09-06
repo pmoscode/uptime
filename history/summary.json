@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 869,
-    "timeDay": 1023,
-    "timeWeek": 817,
-    "timeMonth": 758,
+    "timeDay": 668,
+    "timeWeek": 824,
+    "timeMonth": 748,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2025-07-27": 78,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/message.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "42.97%",
+    "uptime": "42.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.94%",
+    "uptimeYear": "42.66%",
     "time": 1128,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1133,
+    "timeYear": 1136,
     "dailyMinutesDown": {
-      "2025-09-05": 21,
+      "2025-09-06": 20,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -254,8 +255,7 @@
       "2024-10-21": 21,
       "2024-09-20": 296,
       "2024-09-19": 28,
-      "2024-09-16": 516,
-      "2024-09-06": 146
+      "2024-09-16": 516
     }
   },
   {
@@ -269,13 +269,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 663,
-    "timeDay": 929,
-    "timeWeek": 730,
-    "timeMonth": 691,
+    "time": 664,
+    "timeDay": 693,
+    "timeWeek": 713,
+    "timeMonth": 685,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-09-05": 21,
+      "2025-09-06": 20,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -638,8 +639,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   }
 ]
