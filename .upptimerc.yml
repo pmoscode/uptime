@@ -5,9 +5,9 @@ user-agent: pmoscode
 
 sites:
   - name: pmoscode
-    url: https://pmoscode.de
+    url: https://pmoscode.dev
   - name: pmsys.zone
-    url: https://message.pmsys.zone
+    url: https://draw.pmsys.zone
   - name: Caros Lernstübchen
     url: https://caros-lernstuebchen.eu/
 
