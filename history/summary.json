@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "88.55%",
+    "uptime": "88.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.93%",
+    "uptimeMonth": "59.22%",
     "uptimeYear": "83.29%",
     "time": 867,
-    "timeDay": 727,
-    "timeWeek": 1598,
-    "timeMonth": 1101,
-    "timeYear": 851,
+    "timeDay": 881,
+    "timeWeek": 1612,
+    "timeMonth": 1091,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2026-02-02": 613,
       "2026-02-01": 1440,
@@ -91,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "32.73%",
+    "uptime": "32.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.93%",
-    "uptimeYear": "4.82%",
-    "time": 1214,
-    "timeDay": 667,
-    "timeWeek": 774,
-    "timeMonth": 801,
-    "timeYear": 1574,
+    "uptimeMonth": "59.21%",
+    "uptimeYear": "5.09%",
+    "time": 1211,
+    "timeDay": 462,
+    "timeWeek": 753,
+    "timeMonth": 785,
+    "timeYear": 1487,
     "dailyMinutesDown": {
       "2026-02-02": 615,
       "2026-02-01": 1440,
@@ -447,8 +447,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   },
   {
@@ -457,15 +456,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "15.78%",
+    "uptime": "15.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.04%",
+    "uptimeYear": "23.32%",
     "time": 700,
-    "timeDay": 677,
-    "timeWeek": 714,
-    "timeMonth": 750,
+    "timeDay": 650,
+    "timeWeek": 721,
+    "timeMonth": 751,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2025-11-29": 27,
@@ -748,8 +747,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   }
 ]
