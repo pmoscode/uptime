@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "88.95%",
+    "uptime": "88.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.29%",
     "time": 859,
-    "timeDay": 1139,
-    "timeWeek": 878,
-    "timeMonth": 1029,
+    "timeDay": 785,
+    "timeWeek": 845,
+    "timeMonth": 1027,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2026-02-02": 613,
@@ -91,15 +91,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "35.04%",
+    "uptime": "35.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.03%",
-    "time": 1216,
+    "uptimeYear": "10.30%",
+    "time": 1218,
     "timeDay": 0,
-    "timeWeek": 694,
-    "timeMonth": 756,
+    "timeWeek": 690,
+    "timeMonth": 761,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-02": 615,
@@ -428,8 +428,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -438,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "18.67%",
+    "uptime": "18.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.25%",
-    "time": 700,
-    "timeDay": 725,
-    "timeWeek": 635,
-    "timeMonth": 691,
+    "uptimeYear": "28.52%",
+    "time": 699,
+    "timeDay": 509,
+    "timeWeek": 613,
+    "timeMonth": 680,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2025-11-29": 27,
@@ -710,8 +709,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   }
 ]
