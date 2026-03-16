@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "89.03%",
+    "uptime": "89.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.32%",
-    "time": 857,
-    "timeDay": 820,
-    "timeWeek": 777,
-    "timeMonth": 1014,
-    "timeYear": 847,
+    "time": 858,
+    "timeDay": 1135,
+    "timeWeek": 844,
+    "timeMonth": 1015,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2026-02-02": 613,
       "2026-02-01": 1440,
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "35.51%",
+    "uptime": "35.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.12%",
-    "time": 1226,
+    "uptimeYear": "11.40%",
+    "time": 1229,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 773,
+    "timeMonth": 768,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-02": 615,
@@ -423,8 +423,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
@@ -433,16 +432,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "19.26%",
+    "uptime": "19.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.35%",
-    "time": 701,
-    "timeDay": 576,
-    "timeWeek": 656,
-    "timeMonth": 695,
-    "timeYear": 716,
+    "uptimeYear": "29.62%",
+    "time": 700,
+    "timeDay": 911,
+    "timeWeek": 727,
+    "timeMonth": 705,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2025-11-29": 27,
       "2025-11-28": 118,
@@ -701,8 +700,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   }
 ]
