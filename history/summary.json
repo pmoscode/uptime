@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "89.32%",
+    "uptime": "89.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.32%",
     "time": 859,
-    "timeDay": 645,
-    "timeWeek": 826,
-    "timeMonth": 852,
-    "timeYear": 853,
+    "timeDay": 1131,
+    "timeWeek": 880,
+    "timeMonth": 861,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2026-02-02": 613,
       "2026-02-01": 1440,
@@ -90,12 +90,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "37.20%",
+    "uptime": "37.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.23%",
-    "time": 1244,
+    "uptimeYear": "15.51%",
+    "time": 1245,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 794,
@@ -408,8 +408,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   },
   {
@@ -418,16 +417,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "21.38%",
+    "uptime": "21.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.46%",
-    "time": 700,
-    "timeDay": 639,
-    "timeWeek": 762,
-    "timeMonth": 728,
-    "timeYear": 719,
+    "uptimeYear": "33.73%",
+    "time": 699,
+    "timeDay": 682,
+    "timeWeek": 731,
+    "timeMonth": 727,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2025-11-29": 27,
       "2025-11-28": 118,
@@ -671,8 +670,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   }
 ]
