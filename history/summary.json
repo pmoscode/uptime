@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "89.33%",
+    "uptime": "89.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.32%",
     "time": 859,
-    "timeDay": 1131,
-    "timeWeek": 880,
-    "timeMonth": 861,
-    "timeYear": 854,
+    "timeDay": 779,
+    "timeWeek": 887,
+    "timeMonth": 853,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2026-02-02": 613,
       "2026-02-01": 1440,
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "37.31%",
+    "uptime": "37.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.51%",
-    "time": 1245,
+    "uptimeYear": "15.78%",
+    "time": 1247,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 794,
+    "timeMonth": 771,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-02": 615,
@@ -407,8 +407,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
@@ -417,15 +416,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "21.52%",
+    "uptime": "21.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.73%",
+    "uptimeYear": "34.01%",
     "time": 699,
-    "timeDay": 682,
-    "timeWeek": 731,
-    "timeMonth": 727,
+    "timeDay": 568,
+    "timeWeek": 739,
+    "timeMonth": 724,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2025-11-29": 27,
@@ -669,8 +668,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   }
 ]
