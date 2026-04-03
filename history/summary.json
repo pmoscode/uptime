@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "89.37%",
+    "uptime": "89.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.32%",
     "time": 860,
-    "timeDay": 1058,
-    "timeWeek": 878,
-    "timeMonth": 854,
-    "timeYear": 855,
+    "timeDay": 827,
+    "timeWeek": 888,
+    "timeMonth": 853,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2026-02-02": 613,
       "2026-02-01": 1440,
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "37.53%",
+    "uptime": "37.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.05%",
-    "time": 1252,
+    "uptimeYear": "16.33%",
+    "time": 1254,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 752,
+    "timeMonth": 709,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-02": 615,
@@ -405,8 +405,7 @@
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
-      "2025-04-04": 1440,
-      "2025-04-03": 1440
+      "2025-04-04": 1440
     }
   },
   {
@@ -415,15 +414,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "21.79%",
+    "uptime": "21.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.28%",
-    "time": 699,
-    "timeDay": 724,
-    "timeWeek": 666,
-    "timeMonth": 725,
+    "uptimeYear": "34.55%",
+    "time": 698,
+    "timeDay": 417,
+    "timeWeek": 604,
+    "timeMonth": 718,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-11-29": 27,
@@ -665,8 +664,7 @@
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
-      "2025-04-04": 1440,
-      "2025-04-03": 1440
+      "2025-04-04": 1440
     }
   }
 ]
