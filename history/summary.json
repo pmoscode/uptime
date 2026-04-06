@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmoscode.dev.ico",
     "slug": "pmoscode",
     "status": "up",
-    "uptime": "89.43%",
+    "uptime": "89.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.32%",
     "time": 862,
-    "timeDay": 1087,
-    "timeWeek": 955,
-    "timeMonth": 868,
-    "timeYear": 858,
+    "timeDay": 983,
+    "timeWeek": 1003,
+    "timeMonth": 876,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2026-02-02": 613,
       "2026-02-01": 1440,
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/draw.pmsys.zone.ico",
     "slug": "pmsys-zone",
     "status": "down",
-    "uptime": "37.86%",
+    "uptime": "37.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.88%",
-    "time": 1262,
+    "uptimeYear": "17.15%",
+    "time": 1267,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 690,
+    "timeMonth": 745,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-02": 615,
@@ -402,8 +402,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -412,16 +411,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/caros-lernstuebchen.eu.ico",
     "slug": "caros-lernstuebchen",
     "status": "up",
-    "uptime": "22.20%",
+    "uptime": "22.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.10%",
-    "time": 700,
-    "timeDay": 1164,
-    "timeWeek": 716,
-    "timeMonth": 713,
-    "timeYear": 722,
+    "uptimeYear": "35.37%",
+    "time": 701,
+    "timeDay": 1171,
+    "timeWeek": 792,
+    "timeMonth": 727,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-11-29": 27,
       "2025-11-28": 118,
@@ -659,8 +658,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   }
 ]
